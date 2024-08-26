@@ -9,9 +9,7 @@
 
 - 📖 I’m currently learning **AWS, Docker, Kubernetes(K8S), EKS.**
 
-- 📧 How to reach me **hang08.vtm@gmail.com**
-
-<h3 align="left">Connect with me: 086 8781 832</h3>
+<h3 align="left">📧 Connect with me: **hang08.vtm@gmail.com**</h3>
 <p align="left">
 </p>
 
